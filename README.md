@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judahdski
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning java and vanilla javascript.
+- 🌱 I’m currently learning java and web-development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
