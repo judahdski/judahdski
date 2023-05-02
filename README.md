@@ -27,20 +27,27 @@ Here are some of the technologies that I'm proficient in: <br>
 
 ## Contact me
 You can reach out to me via email or social media: <br>
-<a href="mailto:judahjmdasuki@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />
-</a>
-
-<a href="mailto:judahjmdasuki@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />
-</a>
-
-<a href="https://twitter.com/judahdskh">
-  <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/judahdasuki/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
-</a>
+<ul>
+  <li>
+    <a href="mailto:judahjmdasuki@gmail.com">
+      <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />
+    </a>
+  </li>
+  <li>
+    <a href="tel:+6281387306360">
+      <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" />
+    </a>
+  </li>
+  <li>
+    <a href="https://twitter.com/judahdskh">
+      <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/judahdasuki/">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
+    </a>
+  </li>
+</ul>
 
 Let's connect and create something great together! 😉
