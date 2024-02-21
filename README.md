@@ -5,7 +5,7 @@ Hi there, I'm Judah Dasuki, a Full-stack Web Developer Intern at Telkom Indonesi
 ## About me
 - 🏠 Based in Bekasi, Indonesia
 - 👨‍🎓 Diploma 3 in Software Application Engineering from Telkom University
-- 💼 Full-stack Web Developer Intern at Telkom Indonesia
+- 💼 Junior Full-stack Web Developer at Inovasi Mitra Sejati
 - 📚 Currently learning Typescript and Tailwind CSS
 - 💻 Interested in AI and Web 3 topics
 
