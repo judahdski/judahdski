@@ -8,6 +8,7 @@ Hi there, I'm Judah Dasuki, a Full-stack Web Developer Intern at Telkom Indonesi
 - 💼 Junior Full-stack Web Developer at Inovasi Mitra Sejati
 - 📚 Currently learning Typescript and Tailwind CSS
 - 💻 Interested in AI and Web 3 topics
+- 🌐 <a href="https://judahdasuki.netlify.app/">My Personal Website</a>
 
 ## Tech stack
 Here are some of the technologies that I'm proficient in: <br>
