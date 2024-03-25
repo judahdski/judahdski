@@ -3,9 +3,9 @@ Hello, I'm Judah Dasuki, a dedicated Full-stack Web Developer driven by a passio
 
 ## About me
 - 🏠 Based in Bekasi, Indonesia
-- 👨‍🎓 Diploma 3 in Software Application Engineering from Telkom University
-- 💼 Junior Full-stack Web Developer at Inovasi Mitra Sejati
-- 📚 Currently learning Typescript and Tailwind CSS
+- 👨‍🎓 Associate of Software Application Engineering from Telkom University
+- 💼 Junior Full Stack Web Developer at Inovasi Mitra Sejati
+- 📚 Currently learning Typescript and SQL Server
 - 💻 Interested in AI and Web 3 topics
 - 🌐 <a href="https://judahdasuki.netlify.app/">My Personal Website</a>
 
@@ -13,8 +13,9 @@ Hello, I'm Judah Dasuki, a dedicated Full-stack Web Developer driven by a passio
 Here are some of the technologies that I'm proficient in: <br>
 ![HTML5 icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS3 icon](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
 <img width="48" height="48" src="https://img.icons8.com/officel/80/php-logo.png" alt="php-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+![JavaScript icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![Typescript icon](https://img.icons8.com/color/48/000000/typescript)
 ![Python icon](https://img.icons8.com/color/48/000000/python)
 ![Bootstrap icon](https://img.icons8.com/color/48/000000/bootstrap.png)
